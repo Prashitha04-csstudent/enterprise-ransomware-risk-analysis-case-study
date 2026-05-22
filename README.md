@@ -32,6 +32,13 @@ The objective of this project was to analyze how a ransomware attack could affec
 
 ---
 
+---
+
+# Cyber Kill Chain
+
+![Cyber Kill Chain](cyber_kill_chain.png)
+
+---
 # Disclaimer
 
 This is a simulated cybersecurity case study created for educational and portfolio purposes. The organization, attack scenario, and operational details used in this project are hypothetical and designed to demonstrate cybersecurity analysis, risk assessment, and incident response concepts.
