@@ -36,7 +36,7 @@ The objective of this project was to analyze how a ransomware attack could affec
 
 # Cyber Kill Chain
 
-![Cyber Kill Chain](cyber_kill_chain.png)
+![Cyber Kill Chain](cyber_kill_chain.png)  
 
 ---
 # Disclaimer
