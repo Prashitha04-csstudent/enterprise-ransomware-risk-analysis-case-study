@@ -1,7 +1,28 @@
-# Included in This Project
-
----
-
 # Cyber Kill Chain
 
 ![Cyber Kill Chain](cyber_kill_chain.png)
+
+The ransomware incident followed a structured Cyber Kill Chain attack lifecycle demonstrating how attackers progressed from initial access to enterprise-wide disruption.
+
+### Attack Stages Covered
+
+| Stage | Description |
+|---|---|
+| Reconnaissance | Attackers gathered organizational and employee-related information to identify potential targets and vulnerabilities. |
+| Phishing | A phishing email was used as the initial access vector to compromise enterprise endpoints. |
+| Malware Execution | Malicious scripts and unauthorized processes were executed within compromised systems. |
+| Privilege Escalation | Attackers attempted to gain elevated access to critical enterprise resources and administrative privileges. |
+| Lateral Movement | Unauthorized movement across interconnected systems enabled broader infrastructure compromise. |
+| Ransomware Deployment | Enterprise systems and files were encrypted, disrupting operational continuity and business services. |
+| Recovery | Incident response and recovery operations were initiated to restore affected systems and improve resilience. |
+
+### Key Security Observations
+
+- Increased phishing exposure risk
+- Weak privileged access management
+- Elevated ransomware propagation capability
+- Operational dependency on interconnected systems
+- Importance of continuous security monitoring
+- Need for improved incident response readiness
+
+The Cyber Kill Chain analysis provided better visibility into attacker behavior, enterprise security gaps, and business risks associated with modern ransomware threats.
